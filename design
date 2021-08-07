@@ -1,10 +1,19 @@
     notes-backend
 - flask / sqlalchemy
 - hosted on digital ocean
+- mysql
 
     notes-desktop
 - electon
-- tagged view
+- notes pane square or list layouts
+- auto focus on notes
+- arrow navigation through notes
+- enter to open modal view, escape or backspace to close
+    - category button
+    - delete with delete key
+    - undo
+- shift arrow / ctrl click to select, delete, categorize
+- side panel for categories, on select focus on notes pane
 
     notes-mobile
 - react

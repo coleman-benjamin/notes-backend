@@ -1,3 +1,8 @@
+.DS_STORE
+
+# PYTHON DEFAULTS BELOW
+#
+#
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

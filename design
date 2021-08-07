@@ -1,0 +1,11 @@
+    notes-backend
+- flask / sqlalchemy
+- hosted on digital ocean
+
+    notes-desktop
+- electon
+- tagged view
+
+    notes-mobile
+- react
+- tagging
